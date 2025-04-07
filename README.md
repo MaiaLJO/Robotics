@@ -3,10 +3,10 @@
 In this section, you can see general details about two projects performed in the Robotics Lab by group A2. For more information, 
 please click on the links of "Introduction to Robotics" and "Introduction to Robotics Tutorial".
 ### Members
-- Sofía Agüero - Robot Programming
-- Maia Jarolin - Electrical Task
-- Moisés Melgarejo - Mechanical Task
-- Cristhian Sotomayor - Project Management
+- Sofía Agüero
+- Maia Jarolin
+- Moisés Melgarejo
+- Cristhian Sotomayor 
 ## [INTRODUCTION TO ROBOTICS](Introduction%20to%20Robotics/)
 This project addresses the inefficiencies in manual disinfection and the associated workload on healthcare workers by designing a robotic arm equipped with UVC lights for clinical environments. 
 The proposed solution aims to prevent cross-infection between patients while improving overall hygiene. This system benefits both patients, by reducing infection risks, and workers, by automating a 
